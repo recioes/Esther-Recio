@@ -10,7 +10,7 @@
 
 - ✨ Brazilian-born with a strong connection to Spain, having spent half my childhood there and with family roots in the country 
 
-- ⚡ Interesting fact: Fluently in English and native speaker of Portuguese and Spanish 
+- ⚡ Interesting fact: fluently in English and native speaker of Portuguese and Spanish 
 
 - 👨‍💻 More at [Linkedin](https://www.linkedin.com/in/estherrecio/)
 
