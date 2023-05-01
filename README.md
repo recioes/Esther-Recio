@@ -2,7 +2,7 @@
 <h1 align="left">What´s up, I'm Esther Recio <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=recioes&color=yellow" alt="Profile views" /> </p>
 
-- 🚀 Rising Junior Web Developer honing skills in HTML, CSS, and JavaScript, constantly pushing the boundaries of what's possible on the web
+- 🚀 Rising Junior Web Developer honing skills in HTML, CSS, Python and JavaScript, constantly pushing the boundaries of what's possible on the web
 
 - 🎓 Pursuing a career as a Web Developer, currently studying 'System analysis and development' at Centro de Ensino Unificado de Brasília (UniCEUB). I hold a Bachelor's degree in Business Administration from Universidade de Brasília (UnB) and aim to leverage both skills to excel in the field
 
