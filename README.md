@@ -6,7 +6,7 @@
 
 - 🎓 Pursuing a career as a Web Developer, currently studying 'System analysis and development' at Centro de Ensino Unificado de Brasília (UniCEUB). I hold a Bachelor's degree in Business Administration from Universidade de Brasília (UnB) and aim to leverage both skills to excel in the field
 
-- 💬 Ask me about **JavaScript, HTML and CSS, for now**
+- 💬 Ask me about **JavaScript, HTML, CSS and Python for now**
 
 - ✨ Brazilian-born with a strong connection to Spain, having spent half my childhood there and with family roots in the country 
 
