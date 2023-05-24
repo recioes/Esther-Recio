@@ -2,17 +2,17 @@
 <h1 align="left">What´s up, I'm Esther Recio <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=recioes&color=yellow" alt="Profile views" /> </p>
 
-- 🚀 Rising Junior Web Developer honing skills in HTML, CSS, Python and JavaScript, constantly pushing the boundaries of what's possible on the web
+🚀 Aspiring dev, honing skills in Python and its libraries, cybersecurity, SQL, and occasionally, for some fun, delving into HTML and CSS. I have a strong affinity for security, DevOps culture, and more.
 
-- 🎓 Pursuing a career as a Web Developer, currently studying 'System analysis and development' at Centro de Ensino Unificado de Brasília (UniCEUB). I hold a Bachelor's degree in Business Administration from Universidade de Brasília (UnB) and aim to leverage both skills to excel in the field
+🎓 Pursuing a career as a developer (dev), currently studying "System Analysis and Development" at Centro Universitário de Brasília (UniCEUB). I hold a Bachelor's degree in Business Administration from the Universidade de Brasília (UnB) and aim to leverage both skill sets to excel in the field.
 
-- 💬 Ask me about **JavaScript, HTML, CSS and Python for now**
+💬 Ask me about Python, Cybersecurity, SQl, CSS and HTML.
 
-- ✨ Brazilian-born with a strong connection to Spain, having spent half my childhood there and with family roots in the country 
+✨ Brazilian-born with a strong connection to Spain, having spent half of my childhood there and with deep family roots in the country.
 
-- ⚡ Interesting fact: fluency in English and native speaker of Portuguese and Spanish 
+⚡ Interesting fact: Fluent in English, native speaker of Portuguese and Spanish.
 
-- 👨‍💻 More at [Linkedin](https://www.linkedin.com/in/estherrecio/)
+👨‍💻 More at [Linkedin](https://www.linkedin.com/in/estherrecio/)
 
 <!--
 
