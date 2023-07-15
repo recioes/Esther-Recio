@@ -2,7 +2,7 @@
 <h1 align="left">What´s up, I'm Esther Recio <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=recioes&color=yellow" alt="Profile views" /> </p>
 
-🚀 Aspiring dev, honing skills in Python and its libraries, cybersecurity, SQL, and occasionally, for some fun, delving into HTML and CSS. I have a strong affinity for security, DevOps culture, and more.
+🚀 Aspiring dev, honing skills in C# and .NET, Python and its libraries, cybersecurity, SQL, and occasionally, for some fun, delving into HTML and CSS. I have a strong affinity for security, DevOps culture, and more.
 
 🎓 Pursuing a career as a developer (dev), currently studying "System Analysis and Development" at Centro Universitário de Brasília (UniCEUB). I hold a Bachelor's degree in Business Administration from the Universidade de Brasília (UnB) and aim to leverage both skill sets to excel in the field.
 
@@ -12,7 +12,7 @@
 
 ⚡ Interesting fact: Fluent in English, native speaker of Portuguese and Spanish.
 
-👨‍💻 More at [Linkedin](https://www.linkedin.com/in/estherrecio/)
+👨‍💻 More at [my other pages](https://recioes.github.io/Esther_Recio/)
 
 <!--
 
@@ -43,9 +43,8 @@
 <a href="https://www.linkedin.com/in/estherrecio/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-EstherRecio-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://www.instagram.com/esther__recio/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-EstherRecio-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
+
+
 
 </p>
 
