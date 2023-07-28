@@ -4,9 +4,9 @@
 
 🚀 Aspiring dev, honing skills in C# and .NET, Python and its libraries, cybersecurity, SQL, and occasionally, for some fun, delving into HTML and CSS. I have a strong affinity for security, DevOps culture, and more.
 
-🎓 Pursuing a career as a developer (dev), currently studying "System Analysis and Development" at Centro Universitário de Brasília (UniCEUB). I hold a Bachelor's degree in Business Administration from the Universidade de Brasília (UnB) and aim to leverage both skill sets to excel in the field.
+🎓 I am currently advancing my career in software development and am actively enrolled in the 'System Analysis and Development' program at Centro Universitário de Brasília (UniCEUB). This program parallels the curriculum of computer science degrees offered in several other countries. Alongside this technical study, I hold a Bachelor's degree in Business Administration from Universidade de Brasília (UnB). My mission? Weaving tech and business into a tapestry of success in the tech landscape. 
 
-💬 Ask me about Python, Cybersecurity, SQl, CSS and HTML.
+💬 Ask me about C#, Python, Cybersecurity, SQl, CSS and HTML.
 
 ✨ Brazilian-born with a strong connection to Spain, having spent half of my childhood there and with deep family roots in the country.
 
