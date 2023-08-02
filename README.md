@@ -6,7 +6,7 @@
 
 🎓 I'm currently advancing my career in software development. Therefore, I'm actively enrolled in the 'System Analysis and Development' undergraduate program at Centro Universitário de Brasília (UniCEUB). This program parallels the curriculum of computer science degrees offered in several other countries. Alongside this technical study, I hold a Bachelor's degree in Business Administration from Universidade de Brasília (UnB). 
 
-💬 Ask me about C#, Python, Cybersecurity, SQl, CSS and HTML.
+💬 Ask me about C#, Python, Cybersecurity, SQL, CSS and HTML.
 
 ✨ Brazilian-born with a strong connection to Spain, having spent half of my childhood there and with deep family roots in the country.
 
