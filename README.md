@@ -2,7 +2,7 @@
 <h1 align="left">What´s up, I'm Esther Recio!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=recioes&color=yellow" alt="Profile views" /> </p>
 
-🚀 Aspiring dev, honing skills in C# and .NET, Python and its libraries, cybersecurity, SQL, and occasionally, for some fun, delving into HTML and CSS. I have a strong affinity for security, DevOps culture, and more.
+🚀 Backend Developer, honing skills in C# and .NET, cybersecurity, SQL, and occasionally, for some fun, delving into HTML and CSS. I have a strong affinity for security, DevOps culture, and more.
 
 🎓 I'm currently advancing my career in software development. Therefore, I'm actively enrolled in the 'System Analysis and Development' undergraduate program at Centro Universitário de Brasília (UniCEUB). This program parallels the curriculum of computer science degrees offered in several other countries. Alongside this technical study, I hold a Bachelor's degree in Business Administration from Universidade de Brasília (UnB). 
 
