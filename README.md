@@ -1,4 +1,4 @@
-<img align="right" height="550em" width= "450em" src="https://user-images.githubusercontent.com/118849369/239413267-94ae69d4-a019-4b4b-b1e9-f9d4509937ae.jpg"/>
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYndtZjBkbmoyemcwZWticjMxZHpoazNsOWMxeHQ1ZWJmMXB2Z2UxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7OlD6XywZsSyBSa8vd/giphy.webp"/>
 <h1 align="left">What´s up, I'm Esther Recio!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=recioes&color=yellow" alt="Profile views" /> </p>
 
